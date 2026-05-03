@@ -1,10 +1,10 @@
 ﻿#include<iostream>
 
-int main() {
+int main1() {
 
 	// 整型
 	// 短整型(-32768~32767)
-	short num1 = 32768;
+	short num1 = 32767;
 	// 整型
 	int num2 = 10;
 	// 长整型
