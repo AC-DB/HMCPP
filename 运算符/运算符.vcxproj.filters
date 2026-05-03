@@ -15,28 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01.整型.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="02.sizeof关键字.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="03.实型.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="04.字符型.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="05.转义字符.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="06.字符串型.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="07.布尔类型.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="08.数据输入.cpp">
+    <ClCompile Include="01.算数运算符-加减乘除.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

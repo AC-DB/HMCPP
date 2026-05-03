@@ -1,6 +1,6 @@
 ﻿#include<iostream>
 
-int main() {
+int main3() {
 
 	// 1.单精度 float
 	// 2.双精度 double
@@ -17,7 +17,7 @@ int main() {
 	float f2 = 3e2; // 3 * 10 ^ 2 
 	std::cout << "f2 = " << f2 << std::endl;
 
-	float f3 = 3e-2;  // 3 * 0.1 ^ 2
+	float f3 = 3e-2f;  // 3 * 0.1 ^ 2
 	std::cout << "f3 = " << f3 << std::endl;
 
 	return 0;

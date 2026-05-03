@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="C++初识/C++初识.vcxproj" />
-  <Project Path="数据类型/数据类型.vcxproj" />
+  <Project Path="C++初识/C++初识.vcxproj" Id="4b0ae516-d92d-495a-b8e2-ebf538eebfd2" />
+  <Project Path="数据类型/数据类型.vcxproj" Id="054adb5d-4feb-4f30-a221-96122430220e" />
+  <Project Path="运算符/运算符.vcxproj" Id="8abe4e5c-2bcd-46a8-9057-8771d9d21c74" />
 </Solution>
