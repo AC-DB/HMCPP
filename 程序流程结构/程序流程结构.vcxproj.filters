@@ -15,28 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01.算数运算符-加减乘除.cpp">
+    <ClCompile Include="01.选择结构-单行if语句.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="02.算数运算符-取模.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="03.算数运算符-前置后置递增.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="04.赋值运算符.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="05.比较运算符.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="06.逻辑运算符-非.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="07.逻辑运算符-与.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="08.逻辑运算符-或.cpp">
+    <ClCompile Include="02.选择结构-多行if语句.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{8abe4e5c-2bcd-46a8-9057-8771d9d21c74}</ProjectGuid>
-    <RootNamespace>运算符</RootNamespace>
+    <ProjectGuid>{3596e197-6c92-418f-b421-5502b205296c}</ProjectGuid>
+    <RootNamespace>程序流程结构</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,14 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01.算数运算符-加减乘除.cpp" />
-    <ClCompile Include="02.算数运算符-取模.cpp" />
-    <ClCompile Include="03.算数运算符-前置后置递增.cpp" />
-    <ClCompile Include="04.赋值运算符.cpp" />
-    <ClCompile Include="05.比较运算符.cpp" />
-    <ClCompile Include="06.逻辑运算符-非.cpp" />
-    <ClCompile Include="07.逻辑运算符-与.cpp" />
-    <ClCompile Include="08.逻辑运算符-或.cpp" />
+    <ClCompile Include="01.选择结构-单行if语句.cpp" />
+    <ClCompile Include="02.选择结构-多行if语句.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
