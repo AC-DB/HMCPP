@@ -21,5 +21,20 @@
     <ClCompile Include="02.选择结构-多行if语句.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="03.选择结构-多条件if语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04.选择结构-嵌套if语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05.选择结构-三只小猪称体重.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06.选择结构-三目运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07.选择结构-switch语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

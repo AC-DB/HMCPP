@@ -129,6 +129,11 @@
   <ItemGroup>
     <ClCompile Include="01.选择结构-单行if语句.cpp" />
     <ClCompile Include="02.选择结构-多行if语句.cpp" />
+    <ClCompile Include="03.选择结构-多条件if语句.cpp" />
+    <ClCompile Include="04.选择结构-嵌套if语句.cpp" />
+    <ClCompile Include="05.选择结构-三只小猪称体重.cpp" />
+    <ClCompile Include="06.选择结构-三目运算符.cpp" />
+    <ClCompile Include="07.选择结构-switch语句.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
