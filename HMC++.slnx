@@ -5,6 +5,9 @@
   </Configurations>
   <Project Path="C++初识/C++初识.vcxproj" Id="4b0ae516-d92d-495a-b8e2-ebf538eebfd2" />
   <Project Path="数据类型/数据类型.vcxproj" Id="054adb5d-4feb-4f30-a221-96122430220e" />
+  <Project Path="数组/数组.vcxproj" Id="6f56fc20-5b81-4ffc-a104-740026f97e01" />
   <Project Path="程序流程结构/程序流程结构.vcxproj" Id="3596e197-6c92-418f-b421-5502b205296c" />
+  <Project Path="程序流程结构2/程序流程结构2.vcxproj" Id="b44c38ef-b133-4bf2-9f55-69c35e234a93" />
+  <Project Path="程序流程结构3/程序流程结构3.vcxproj" Id="74c70128-fb6c-4fa4-b2a6-e7164a804937" />
   <Project Path="运算符/运算符.vcxproj" Id="8abe4e5c-2bcd-46a8-9057-8771d9d21c74" />
 </Solution>
