@@ -128,6 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="01.一维数组的定义.cpp" />
+    <ClCompile Include="02.一维数组数组名.cpp" />
+    <ClCompile Include="03.一维数组案例-五只小猪称体重.cpp" />
+    <ClCompile Include="04.一维数组案例-数组元素逆置.cpp" />
+    <ClCompile Include="05.一维数组-冒泡排序.cpp" />
+    <ClCompile Include="06.二维数组的定义.cpp" />
+    <ClCompile Include="07.二维数组-数组名.cpp" />
+    <ClCompile Include="08.二维数组-案例.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

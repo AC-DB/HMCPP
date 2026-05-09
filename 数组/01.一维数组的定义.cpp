@@ -1,6 +1,6 @@
 ﻿#include<iostream>
 
-int main() {
+int main1() {
 
 	//定义方式1
 	//数据类型 数组名[元素个数];
