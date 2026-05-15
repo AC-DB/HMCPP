@@ -11,5 +11,6 @@
   <Project Path="程序流程结构/程序流程结构.vcxproj" Id="3596e197-6c92-418f-b421-5502b205296c" />
   <Project Path="程序流程结构2/程序流程结构2.vcxproj" Id="b44c38ef-b133-4bf2-9f55-69c35e234a93" />
   <Project Path="程序流程结构3/程序流程结构3.vcxproj" Id="74c70128-fb6c-4fa4-b2a6-e7164a804937" />
+  <Project Path="结构体/结构体.vcxproj" Id="5afa7b00-7e79-428d-9534-28efdbff49de" />
   <Project Path="运算符/运算符.vcxproj" Id="8abe4e5c-2bcd-46a8-9057-8771d9d21c74" />
 </Solution>
