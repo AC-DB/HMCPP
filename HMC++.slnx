@@ -18,4 +18,7 @@
     <Project Path="初级/结构体/结构体.vcxproj" Id="5afa7b00-7e79-428d-9534-28efdbff49de" />
     <Project Path="初级/运算符/运算符.vcxproj" Id="8abe4e5c-2bcd-46a8-9057-8771d9d21c74" />
   </Folder>
+  <Folder Name="/核心/">
+    <Project Path="核心/内存四区/内存四区.vcxproj" Id="f2296f89-2c0b-4e26-80f6-ee836f89fd5d" />
+  </Folder>
 </Solution>

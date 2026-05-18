@@ -1,0 +1,22 @@
+﻿#include<iostream>
+
+//堆区开辟数组
+int main5() {
+
+    int* arr = new int[10];
+
+    for (int i = 0; i < 10; i++)
+    {
+        arr[i] = i + 100;
+    }
+
+    for (int i = 0; i < 10; i++)
+    {
+        std::cout << arr[i] << std::endl;
+    }
+
+    //释放数组 delete 后加 []
+    delete[] arr;
+
+    return 0;
+}
