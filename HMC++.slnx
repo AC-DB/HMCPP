@@ -20,5 +20,6 @@
   </Folder>
   <Folder Name="/核心/">
     <Project Path="核心/内存四区/内存四区.vcxproj" Id="f2296f89-2c0b-4e26-80f6-ee836f89fd5d" />
+    <Project Path="核心/引用/引用.vcxproj" Id="9bce3746-b542-43c6-a569-899d8857acc3" />
   </Folder>
 </Solution>
