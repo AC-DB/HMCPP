@@ -22,5 +22,6 @@
     <Project Path="核心/内存四区/内存四区.vcxproj" Id="f2296f89-2c0b-4e26-80f6-ee836f89fd5d" />
     <Project Path="核心/函数高级/函数高级.vcxproj" Id="5c1ef9a4-6915-44fb-a865-8623ccccb980" />
     <Project Path="核心/引用/引用.vcxproj" Id="9bce3746-b542-43c6-a569-899d8857acc3" />
+    <Project Path="核心/类和对象-封装/类和对象-封装.vcxproj" Id="b517d38c-bb7d-4139-87c3-a9c13975a08c" />
   </Folder>
 </Solution>
