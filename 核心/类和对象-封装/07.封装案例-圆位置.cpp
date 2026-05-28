@@ -51,7 +51,7 @@ void getRel(Po7 &p, Or7 &o) {
 	}
 }
 
-int main() {
+int main7() {
 
 	Po7 po,ro;
 
