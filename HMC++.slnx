@@ -19,6 +19,7 @@
     <Project Path="初级/运算符/运算符.vcxproj" Id="8abe4e5c-2bcd-46a8-9057-8771d9d21c74" />
   </Folder>
   <Folder Name="/核心/">
+    <Project Path="核心/C++对象模型和this指针/C++对象模型和this指针.vcxproj" Id="1358e270-d8a4-4e6a-a867-b56aa0207dc5" />
     <Project Path="核心/内存四区/内存四区.vcxproj" Id="f2296f89-2c0b-4e26-80f6-ee836f89fd5d" />
     <Project Path="核心/函数高级/函数高级.vcxproj" Id="5c1ef9a4-6915-44fb-a865-8623ccccb980" />
     <Project Path="核心/对象的初始化和清理/对象的初始化和清理.vcxproj" Id="31a85b55-9286-479c-a13e-8f57332656d2" />
