@@ -22,8 +22,11 @@
     <Project Path="核心/C++对象模型和this指针/C++对象模型和this指针.vcxproj" Id="1358e270-d8a4-4e6a-a867-b56aa0207dc5" />
     <Project Path="核心/内存四区/内存四区.vcxproj" Id="f2296f89-2c0b-4e26-80f6-ee836f89fd5d" />
     <Project Path="核心/函数高级/函数高级.vcxproj" Id="5c1ef9a4-6915-44fb-a865-8623ccccb980" />
+    <Project Path="核心/友元/友元.vcxproj" Id="e04d6aab-2c2a-4dc4-b725-8e7fdc466b45" />
     <Project Path="核心/对象的初始化和清理/对象的初始化和清理.vcxproj" Id="31a85b55-9286-479c-a13e-8f57332656d2" />
     <Project Path="核心/引用/引用.vcxproj" Id="9bce3746-b542-43c6-a569-899d8857acc3" />
     <Project Path="核心/类和对象-封装/类和对象-封装.vcxproj" Id="b517d38c-bb7d-4139-87c3-a9c13975a08c" />
+    <Project Path="核心/继承/继承.vcxproj" Id="989a2bfe-bc52-483d-9f08-df6b840606b2" />
+    <Project Path="核心/运算符重载/运算符重载.vcxproj" Id="dfebc4f0-4448-43f3-9ed2-9e2dc0b554bb" />
   </Folder>
 </Solution>
