@@ -18,6 +18,9 @@
     <Project Path="初级/结构体/结构体.vcxproj" Id="5afa7b00-7e79-428d-9534-28efdbff49de" />
     <Project Path="初级/运算符/运算符.vcxproj" Id="8abe4e5c-2bcd-46a8-9057-8771d9d21c74" />
   </Folder>
+  <Folder Name="/提高/">
+    <Project Path="提高/01函数模板语法/01函数模板语法.vcxproj" Id="a021d285-8178-4e86-bace-d777c02a3de3" />
+  </Folder>
   <Folder Name="/核心-实战/">
     <Project Path="核心-实战/职工管理系统/职工管理系统.vcxproj" Id="6f1393c5-e23c-4990-a1d6-3e20711e544b" />
   </Folder>
